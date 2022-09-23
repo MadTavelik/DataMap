@@ -13,13 +13,6 @@ byline {
   font-style:italic;
 }
 
-fa-border {
- border: solid 0.08;
- border-radius: .1em;
- padding: .2em .25em .15em;
- background-color: #000000;
-}
-
 fa-solid {
     float: left;
 }
