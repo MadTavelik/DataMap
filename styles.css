@@ -16,7 +16,9 @@ byline {
 fa-border {
  border: solid 0.08 #000000;
  border-radius: .1em;
- padding: .2em .25em .15em; }
+ padding: .2em .25em .15em;
+ color: #000000;
+}
 
 
 Footer
