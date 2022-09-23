@@ -7,14 +7,14 @@ h1 {
     text-align: center;
 }
 
+byline {
+  font-style: italic;
+}
+
 img {
   display:block;
   width:100%;
   padding: 10px;
-}
-
-byline {
-  font-style: italic;
 }
 
 fa-solid {
