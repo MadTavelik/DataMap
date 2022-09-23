@@ -23,6 +23,9 @@ html, body {
 }
 
 /*Styling imagees to make them full bleed on mobile*/
+
+
+
 img {
   display:block;
   width:100%;
@@ -38,6 +41,11 @@ byline {
   max-width: 800px;
   margin: 0 auto;
 }
+
+.fa-border {
+ border: solid 0.08 #17202A;
+ border-radius: .1em;
+ padding: .2em .25em .15em; }
 
 /*********************************************************************
   YOUR TABLET/DESKTOP STYLES GO HERE
