@@ -22,6 +22,9 @@ img {
   padding: 10px;
 }
 
+i {
+    padding-right: 30px;
+    
 fa-solid {
     float: left;
     padding-right: 30px;
