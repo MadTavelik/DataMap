@@ -3,6 +3,10 @@ body {
     font-size:16px;
 }
 
+.orange-box {
+    background-color: orange;
+    padding: 10px;
+
 h1 {
     text-align: center;
 }
