@@ -41,8 +41,8 @@
 
 .icon {
     width: 10%;
-    padding-right: 5%;
-    outline-style: dashed;
+    padding: 5%;
+    outline-style: solid;
     border-radius: 25px;
 }
 
