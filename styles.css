@@ -6,8 +6,12 @@
 }
 
 .center-text {
-    text-align:center
+    text-align:center;
 }
+
+.italic {
+    font-style: italic;
+
 
 .main-container {
     display: flex;
