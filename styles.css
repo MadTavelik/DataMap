@@ -29,7 +29,9 @@
     color: black;
     justify-content: space-around;
     align-items: center;
-    
+}
+
+.dash-line {
     outline-style: dashed;
     border-radius: 25px;
 }
