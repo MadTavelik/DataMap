@@ -47,10 +47,10 @@
 }
 
 .fa-solid {
-    width: 10%;
-    padding-right: 5%;
-    padding-left: 5%;
-    padding-bottom: 5%;
+ width: 10%;
+ padding: 5%;
+ outline-style: solid;
+ border-radius: 25px;
 }
 
 Footer
