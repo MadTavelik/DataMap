@@ -42,6 +42,8 @@
 .icon {
     width: 10%;
     padding-right: 5%;
+    outline-style: dashed;
+    border-radius: 25px;
 }
 
 .fa-solid {
