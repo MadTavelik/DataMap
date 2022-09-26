@@ -34,6 +34,7 @@
 .dash-line {
     outline-style: dashed;
     border-radius: 25px;
+    padding: 10px;
 }
 
 .icon {
