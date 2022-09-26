@@ -29,6 +29,9 @@
     color: black;
     justify-content: space-around;
     align-items: center;
+    
+    outline-style: dashed;
+    border-radius: 25px;
 }
 
 .icon {
