@@ -30,7 +30,7 @@
     padding-top: 2%;
     color: black;
     background-color: yellow;
-    justify-content: space-around;
+ 
     align-items: center;
     
     border-radius: 25px;
@@ -45,22 +45,4 @@
     margin: 30px;
 }
 
-.icon {
-    width: 10%;
-    padding: 5%;
-    outline-style: solid;
-    border-radius: 25px;
-}
 
-.fa-solid {
- margin: 30px;
- border-radius: 25px;
- margin: 10px;
- width:75%;
- padding: 5%;
-}
-
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
