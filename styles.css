@@ -49,4 +49,7 @@
   height: auto ;
 }
 
-
+.responsive {
+  max-width: 25%;
+  height: auto;
+}
