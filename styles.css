@@ -1,12 +1,12 @@
 .main-container {
     display: flex;
     flex-direction: column;
-    Background-color: #f8d18c;
+    Background-color: #FFFFFF;
 }
 
 .headline {
     outline-style: dashed;
-    background-color: orange;
+    background-color: yellow;
     border-radius: 25px;
     padding: 10px;
     margin: 30px;
