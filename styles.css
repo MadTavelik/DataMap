@@ -29,6 +29,7 @@
     display: flex;
     padding-top: 2%;
     color: black;
+    background-color: yellow;
     justify-content: space-around;
     align-items: center;
 }
