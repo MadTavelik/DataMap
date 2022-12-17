@@ -57,6 +57,8 @@
   height: auto ;
   background-size: contain ;
   text-align: center;
+  margin: auto;
+  display: block;
 }
 
 .responsive {
@@ -70,6 +72,8 @@
   margin: 0 auto;
   background-size: contain ;
   text-align: center;
+  margin: auto;
+  display: block;
 }
 
 .container-chart {
