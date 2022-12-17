@@ -73,7 +73,7 @@
   background-size: contain ;
   text-align: center;
   display: block;
-  margin: 0 auto;
+  margin: auto;
 }
 
 .container-chart {
