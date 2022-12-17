@@ -80,4 +80,6 @@
   max-width: 75%;
   padding-top: 20px;
   padding-bottom: 10px;
+  display: flex;
+  justify-content: center;
 }
