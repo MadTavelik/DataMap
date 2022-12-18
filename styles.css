@@ -78,6 +78,7 @@
 
 .chart {
   display: flex;
+  flex-direction: column;
   justify-content: center; 
   max-width: 1000px;
   padding-left: 30px;
