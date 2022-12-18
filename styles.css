@@ -77,10 +77,6 @@
 }
 
 .chart {
-  width: auto ;
-  max-width: 90% ;
-  height: auto ;
-  background-size: contain;
   margin: auto;
   display: block;
   padding-left: 20px;
