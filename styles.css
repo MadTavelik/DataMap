@@ -81,11 +81,14 @@
   flex-direction: column;
   justify-content: center; 
   max-width: 1000px;
+  align-items: center;
+}
+    
   padding-left: 300px;
   padding-right: 300px;
   padding-top: 15px;
   padding-bottom:0px;
  
-}
+
 
 
