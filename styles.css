@@ -87,3 +87,16 @@
   height: auto;
 }
 
+.container.chart {
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.container.footer {
+  padding-bottom: 50px;
+}
+
+.container.header {
+  max-width: 600px;
+  margin: 0 auto;
+
