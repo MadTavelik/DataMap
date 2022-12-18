@@ -77,9 +77,11 @@
 }
 
 .container-chart {
-  max-width: 75%;
-  padding-top: 20px;
-  padding-bottom: 10px;
-  display: grid;
-  place-items: center;
+display:block;
+  max-width: 700px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 15px;
+  padding-bottom:0px;
+  margin: 0 auto;
 }
