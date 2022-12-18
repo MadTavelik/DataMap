@@ -76,27 +76,16 @@
   margin: auto;
 }
 
-.container-chart {
-
-  max-width: 100%;
+.chart {
+  width: auto ;
+  max-width: 90% ;
+  height: auto ;
+  background-size: contain;
+  margin: auto;
+  display: block;
   padding-left: 20px;
   padding-right: 20px;
   padding-top: 15px;
   padding-bottom:0px;
-  margin: 0 auto;
-  height: auto;
 }
-
-.container.chart {
-  padding-top: 20px;
-  padding-bottom: 10px;
-}
-
-.container.footer {
-  padding-bottom: 50px;
-}
-
-.container.header {
-  max-width: 600px;
-  margin: 0 auto;
 
