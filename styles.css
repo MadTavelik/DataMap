@@ -77,22 +77,10 @@
 .chart {
   display: flex;
   justify-content: center;
-  max-width: 1700px;
+  max-width: 1800px;
 }
 
-    
-  display: flex;
-  flex-direction: column;
-  justify-content: center; 
-  max-width: 1700px;
-  align-items: center;
-  min-width: 400px;
-
-    
-  padding-left: 320px;
-  padding-right: 300px;
-  padding-top: 15px;
-  padding-bottom:0px;
+   
  
 
 
