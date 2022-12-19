@@ -78,14 +78,13 @@
   display: flex;
   justify-content: center;
   max-width: 1200px;
-  min-width: 400px;
 }
 
     
   display: flex;
   flex-direction: column;
   justify-content: center; 
-  max-width: 1500px;
+  max-width: 1700px;
   align-items: center;
   min-width: 400px;
 
